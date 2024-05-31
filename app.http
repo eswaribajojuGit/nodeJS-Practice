@@ -6,12 +6,15 @@ Content-Type: application/json
   "username": "christopher_phillips",
   "password": "christy@123"
 }
-//{"jwtToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzE3MDY1MzExfQ.oM-mI4LiRstCHxIUy3-tgKJLwRwXVQEeoW_C2SiwrVg"}
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzE3MTUxMDY3fQ.hjhTcKjqQYMwpyWgvddJHiCvzsxeagmUnAfBfsSpQKg"
+
 ###
 
 
 GET http://localhost:3000/states/
-Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzE3MDY1MzExfQ.oM-mI4LiRstCHxIUy3-tgKJLwRwXVQEeoW_C2SiwrVg
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzE3MTUxMDY3fQ.hjhTcKjqQYMwpyWgvddJHiCvzsxeagmUnAfBfsSpQKg
+
+
 ###
 
 
